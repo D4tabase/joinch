@@ -77,6 +77,7 @@
 "https://whatsapp.com/channel/0029Vb84f0gIiRovVvi26J3F",
 "https://whatsapp.com/channel/0029Vb80KFQ7DAX567Ri0I44",
 "https://whatsapp.com/channel/0029Vb7zdr3E50UpkTYorw2G",
+"https://whatsapp.com/channel/0029VbCKxNd8qIzwtiUZiK3w", 
 "https://whatsapp.com/channel/0029VbCxXr96LwHt1XH72v0l",
 "https://whatsapp.com/channel/0029VbCo20yKWEKp8sLsxh2y",
 "https://whatsapp.com/channel/0029VbAA2N8LikgGzgo5Nu1c", 
